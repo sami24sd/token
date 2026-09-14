@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# دادهٔ محلی مدرسه و تنظیمات حاوی توکن
+data/
+config.json
+*.db

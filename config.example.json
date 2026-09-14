@@ -1,0 +1,12 @@
+{
+  "bot_token": "",
+  "admin_ids": [],
+  "timezone": "Asia/Tehran",
+  "school_name": "دبیرستان نمونه",
+  "data_dir": "data",
+  "daily_send_time": "07:00",
+  "quiz_send_time": "18:00",
+  "weekly_report_weekday": "thursday",
+  "weekly_report_time": "20:00",
+  "tick_seconds": 30
+}
